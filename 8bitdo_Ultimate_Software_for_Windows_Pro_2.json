@@ -1,0 +1,16 @@
+{
+    "homepage": "https://support.8bitdo.com/ultimate/pro2.html",
+    "description": "Ultimate software gives you elite control over every piece of your controller: customize button mapping, adjust stick & trigger sensitivity, vibration control and create macros with any button combination. Create controller profiles and switch between them at any time.",
+    "version": "2.03",
+    "license": "Proprietary",
+    "url": "https://download.8bitdo.com/Ultimate-Software/8BitDo-Ultimate-Software-for-Windows.zip",
+    "hash": "F4E3E2725710D8CB6350136606FB74E9DFBE5C60192361E95495FCF0D2B79BA4",
+    "bin": "8BitDo Ultimate Software.exe",
+    "extract_dir": "8BitDo-Ultimate-Software-for-Windows",
+    "shortcuts": [
+        [
+            "8BitDo Ultimate Software.exe",
+            "8BitDo Ultimate Software - Pro 2"
+        ]
+    ]
+}

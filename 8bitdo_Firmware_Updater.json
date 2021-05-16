@@ -1,0 +1,16 @@
+{
+    "homepage": "https://support.8bitdo.com/firmware-updater.html",
+    "description": "Tool for updating the firmware on an 8BitDo device.",
+    "version": "2.21",
+    "license": "Proprietary",
+    "url": "https://download.8bitdo.com/Tools/FirmwareUpdater/8BitDo_Firmware_Updater_Win.zip",
+    "hash": "6B65C14C15876D6F0055C8DB7718EEB9AC7B3AE23F7CF73A8F672812E5FB71DD",
+    "bin": "8BitDo Firmware Updater.exe",
+    "extract_dir": "8BitDo_Firmware_Updater_Win",
+    "shortcuts": [
+        [
+            "8BitDo Firmware Updater.exe",
+            "8BitDo Firmware Updater"
+        ]
+    ]
+}
